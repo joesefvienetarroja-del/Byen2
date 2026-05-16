@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works grabe ba lol
+[Provide a detailed explanation of how your project works, including the main functionality and design approach]
 
 ## How to test
 
-Explain how to use your project
+[Provide clear instructions on how to test or use your project, including any setup steps or prerequisites]
 
 ## External hardware
 
